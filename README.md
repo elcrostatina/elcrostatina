@@ -5,7 +5,7 @@ I am an experienced Software Architect/Lead Developer consultant, focused on Cyb
 
 I ❤️ sustainable coding ️🌍.
 
-I am also part of a cyber security group [r00tmi.it](https://r00tmi.it/ "r00tmi.it") in Milan, founder of the [pullapp.club ](https://pullapp.club/ "pullapp.club ") and mentor at [webstack.academy](https://www.webstack.academy/ "webstack.academy"). 
+I am also part of a cyber security group [r00tmi.it](https://r00tmi.it/ "r00tmi.it") in Milan and founder of the [pullapp.club ](https://pullapp.club/ "pullapp.club "). 
 
 
 Currently:
