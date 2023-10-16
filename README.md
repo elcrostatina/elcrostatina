@@ -10,8 +10,8 @@ I am also part of a cyber security group [r00tmi.it](https://r00tmi.it/ "r00tmi.
 
 Currently:
 - Co-founder of wesync.dev 🧑‍💼
-- Teacher/mentor at webstack.academy 🤓 
-- Consulting at Sky, Qodeup and several startups as software architect/developer 👨‍💻
+- Technical instructor at webstack.academy and et labora fondation 🤓
+- Consulting at Sky and several startups as software architect/developer 👨‍💻
 - Working on a web3 social app 🐂
 
 
