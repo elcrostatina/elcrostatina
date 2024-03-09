@@ -11,7 +11,7 @@ I am also part of a cyber security group [r00tmi.it](https://r00tmi.it/ "r00tmi.
 Currently:
 - Co-founder of wesync.dev 🧑‍💼
 - Technical instructor at webstack.academy and et labora fondation 🤓
-- Consulting at Sky and several startups as software architect/developer 👨‍💻
+- Consulting at Vodafone Automotive and several startups as software architect/developer 👨‍💻
 - Working on a web3 social app 🐂
 
 
